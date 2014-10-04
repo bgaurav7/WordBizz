@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="b_green">#997FE817</color>
+    <color name="b_orange">#99FFA62F</color>
+    <color name="b_red">#99FF2400</color>
+    <color name="b_black">#99483C32</color>
+    <color name="black">#FF000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="orange">#FFFFA62F</color>
+    <color name="darkred">#ffb20000</color>
+    <color name="pink">#ffb404ae</color>
+    <color name="blue">#ff08298a</color>
+    <color name="parrotgreen">#ff088a08</color>
+</resources>

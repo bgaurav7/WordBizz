@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WordBizz</string>
+    <string name="action_settings">/data/data/com.gaurav.wordbizz/databases/</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="define">Defination Will Be Displayed Here</string>
+    <string name="begin">BEGINS with</string>
+    <string name="sound">SND</string>
+    <string name="option">OPTIONAL ( Ends With )</string>
+    <string name="example">e.g. :\t</string>
+    <string name="no_example">NO EXAPMLE</string>
+    <string name="next">NEXT →</string>
+    <string name="ans">ANSWER</string>
+    <string name="play">PLAY</string>
+    <string name="pass">PASS To</string>
+    <string name="no_of_players">Choose No of Players</string>
+    <string-array name="player_array">
+        <item>1 Player</item>
+        <item>2 Player</item>
+        <item>3 Player</item>
+        <item>4 Player</item>
+        <item>5 Player</item>
+        <item>6 Player</item>
+    </string-array>
+    <string name="name">PLEASE ENTER YOUR NAMES</string>
+    <string name="submit">SUBMIT</string>
+    <string name="pN1">Player 1</string>
+    <string name="pN2">Player 2</string>
+    <string name="pN3">Player 3</string>
+    <string name="pN4">Player 4</string>
+    <string name="pN5">Player 5</string>
+    <string name="pN6">Player 6</string>
+    <string name="wait">PLEASE WAIT\n\nLoading... !!</string>
+    <string name="login">LOGIN</string>
+    <string name="uid">Username : </string>
+    <string name="pwd">Password :</string>
+    <string name="score">SCORES</string>
+    <string name="sc">0</string>
+    <string name="rk1">1</string>
+    <string name="rk2">2</string>
+    <string name="rk3">3</string>
+    <string name="rk4">4</string>
+    <string name="rk5">5</string>
+    <string name="rk6">6</string>
+    <string name="rank">Rank</string>
+    <string name="pname">Name</string>
+    <string name="scores">Score</string>
+    <string name="back">BACK</string>
+    <string name="exit">Exit</string>
+    <string name="gw">Green Word : </string>
+    <string name="gd">Green Defination : </string>
+    <string name="ow">Orange Word : </string>
+    <string name="od">Orange Defination : </string>
+    <string name="rw">Red Word : </string>
+    <string name="rd">Red Defination : </string>
+    <string name="bw">Black Word : </string>
+    <string name="bd">Black Defination : </string>
+    <string name="card">Card : </string>
+    <string name="snd">Start Sound : </string>
+    <string name="update">Update</string>
+    <string name="loading">Loading...!! \n This may take few minutes.</string>
+</resources>
