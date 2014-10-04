@@ -1,6 +1,6 @@
 WordBizz
 ========
-This is a fun, competitive, multiplayer, educational vocabulary game based on sound cues and definitions.
+This is a fun, competitive, multiplayer, educational vocabulary game based on sound cues and definitions. Helps user to learn new words.
 
 
 The degree of difficulty of each word is designated by a color code (green/orange/red). The player reads the definition and guesses the word answer based on starting sound given at each card.
